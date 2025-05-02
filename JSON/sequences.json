@@ -1,1 +1,64 @@
-[]
+[
+  {
+    "name": "zero",
+    "loop": "1:0:0",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:3.0",
+        "pitch": "D#4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:2.0",
+        "pitch": "A#3",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:1.0",
+        "pitch": "C#4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "bass",
+    "loop": "1m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "E2",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:3.0",
+        "pitch": "G2",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:2.0",
+        "pitch": "C3",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:1.0",
+        "pitch": "F2",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  }
+]
